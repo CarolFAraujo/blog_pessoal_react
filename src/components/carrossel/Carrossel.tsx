@@ -1,4 +1,4 @@
-// Importando os Componentes React Swiper
+/* // Importando os Componentes React Swiper
 import { Swiper, SwiperSlide } from "swiper/react";
 
 // Importando os estilos do Swiper
@@ -53,4 +53,4 @@ function Carrossel() {
     )
 }
 
-export default Carrossel
+export default Carrossel */
