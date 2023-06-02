@@ -1,6 +1,6 @@
-.text-decorator-none{
-    text-decoration: none;
-}
+.textos1{
+    font-weight: bold !important;
+ }
 
 .imagem{
     background-image: url(https://i.imgur.com/gpVfrDU.jpg);
@@ -14,4 +14,3 @@
 .text-decorator-none{
     text-decoration: none;
 }
-
